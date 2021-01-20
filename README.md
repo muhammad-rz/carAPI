@@ -8,7 +8,7 @@
     - Automapper
     - DTO
 
-To use this code. Add a file called ##appsettings.json in root folder with the following content
+To use this code. Add a file called **appsettings.json** in root folder with the following content
 
 ```
 {
