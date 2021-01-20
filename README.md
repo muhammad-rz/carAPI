@@ -6,4 +6,4 @@
     - Depedency Injection
     - Entity Framework
     - Automapper
-    - DTOS
+    - DTO
